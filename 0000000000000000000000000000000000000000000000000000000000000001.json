@@ -1,0 +1,31 @@
+{
+    "image": "https://github.com/SkereAr/test3/raw/main/0.png",
+    "tokenId": "0",
+    "name": "CRYPTO TEST 0",
+    "attributes": [
+        {
+            "trait_type": "00_bg",
+            "value": "7"
+        },
+        {
+            "trait_type": "01_head",
+            "value": "BLUE VIOLET"
+        },
+        {
+            "trait_type": "02_body",
+            "value": "cuerpo"
+        },
+        {
+            "trait_type": "03_faces",
+            "value": "TENDER"
+        },
+        {
+            "trait_type": "04-sombreros",
+            "value": "PUNK HAIR"
+        },
+        {
+            "trait_type": "tokenId",
+            "value": "0"
+        }
+    ]
+}
